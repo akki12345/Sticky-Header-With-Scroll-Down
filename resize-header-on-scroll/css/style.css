@@ -53,8 +53,8 @@ a img {
   box-sizing: border-box; }
 
 body {
-  background-color: #3cb5f9;
-  color: #505050;
+  background-color: #9c9c9c;
+  color: #9c9c9c;
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
   font-size: 16px;
@@ -97,8 +97,8 @@ section {
     section p:last-child {
       margin-bottom: 0; }
   section.color {
-    background-color: #3cb5f9;
-    color: white; }
+    background-color: #fff;
+    color: gray; }
 
 /* =Info Bar
 -------------------------------------------------------------- */
